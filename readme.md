@@ -19,6 +19,8 @@ On macOS, check this link first! https://support.apple.com/en-us/HT202491
 
 OpenCV for Processing(opencv 4.4.0) supports Windows 10 64-bit(tested with nvidia gtx1070, Some features(DNN, Yolo) need CUDA).
 
+OpenCV java for Apple Silicon  https://cdmana.com/2021/07/20210731010258018e.html
+
 
 
 
